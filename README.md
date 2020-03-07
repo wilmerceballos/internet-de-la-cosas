@@ -12,6 +12,6 @@ luis|3.5|2|M
 ana|4.0|3|F
 pedro|2.2|2|M
 
-![facebook](imagenes/2020-ford-mustang-shelby-gt500-front.jpg)dsad
+![facebook](iiamg/47657_1.jpg)
 ### citas
 >esta es una cita
